@@ -1,5 +1,5 @@
 # getting_and_cleaning_data
-This repo contains code for the exercise requested in the Getting and Cleaning Data final exam.
+This repo contains code for the exercise requested in the Getting and Cleaning Data final exam. This code is in the file run_analysis.R
 
 The code does the following:
 
@@ -10,3 +10,6 @@ The code does the following:
 - Replaces activity number by activity strings
 - Combines all datasets
 - Summarizes datasets based on subject and activity.
+
+
+The codebook is placed under file CodeBook.md. It is a modification  of the codebook originally delivered with the exam data.
